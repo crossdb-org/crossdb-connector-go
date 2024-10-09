@@ -1,1 +1,1 @@
-# crossdb-connector-go
+# Go Connector for CrossDB
