@@ -1,1 +1,1 @@
-# Go Connector for CrossDB
+# Go Driver for CrossDB

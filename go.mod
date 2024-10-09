@@ -1,3 +1,3 @@
-module github.com/crossdb-org/crossdb-connector-go
+module github.com/crossdb-org/crossdb-go
 
 go 1.14
